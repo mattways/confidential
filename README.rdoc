@@ -1,0 +1,19 @@
+{<img src="https://codeclimate.com/github/mattways/confidential.png" />}[https://codeclimate.com/github/mattways/confidential] {<img src="https://travis-ci.org/mattways/confidential.png?branch=master" alt="Build Status" />}[https://travis-ci.org/mattways/confidential] {<img src="https://gemnasium.com/mattways/confidential.png" alt="Dependency Status" />}[https://gemnasium.com/mattways/confidential]
+
+= Confidential
+
+Loads your confidential configuration into envs.
+
+= Install
+
+Put this line in your Gemfile:
+  gem 'confidential'
+  
+Then bundle:
+  $ bundle
+
+= Usage
+
+Just put your confidential information in config/confidential.yml:
+  DB_USER: user
+  DB_PASS: pass
