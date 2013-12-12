@@ -17,3 +17,5 @@ Then bundle:
 Just put your confidential information in config/confidential.yml:
   DB_USER: user
   DB_PASS: pass
+
+(Probably you want to ignore config/confidential.yml in your repo)
