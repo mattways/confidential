@@ -1,4 +1,4 @@
-{<img src="https://codeclimate.com/github/mattways/confidential.png" />}[https://codeclimate.com/github/mattways/confidential] {<img src="https://travis-ci.org/mattways/confidential.png?branch=master" alt="Build Status" />}[https://travis-ci.org/mattways/confidential] {<img src="https://gemnasium.com/mattways/confidential.png" alt="Dependency Status" />}[https://gemnasium.com/mattways/confidential]
+{<img src="https://badge.fury.io/rb/confidential.png" alt="Gem Version" />}[http://badge.fury.io/rb/confidential] {<img src="https://codeclimate.com/github/museways/confidential.png" />}[https://codeclimate.com/github/museways/confidential] {<img src="https://travis-ci.org/museways/confidential.png?branch=master" alt="Build Status" />}[https://travis-ci.org/museways/confidential] {<img src="https://gemnasium.com/museways/confidential.png" alt="Dependency Status" />}[https://gemnasium.com/museways/confidential]
 
 = Confidential
 
