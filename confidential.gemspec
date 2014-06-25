@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ['Museways']
   s.email       = ['hello@museways.com']
   s.homepage    = 'https://github.com/museways/confidential'
-  s.summary     = 'Confidential Envs for Rails'
-  s.description = 'Loads your confidential configuration into envs.'
+  s.summary     = 'Confidential envs for rails.'
+  s.description = 'Loads your confidential configuration into envs in rails.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.rdoc']
