@@ -24,7 +24,6 @@ NOTE: Probably you want to ignore config/confidential.yml in your repo.
 
 All the keys will be loaded into envs, you may want to use those for your database.yml:
   production:
-    database: <%= ENV['DB_NAME'] %>
     username: <%= ENV['DB_USER'] %>
     password: <%= ENV['DB_PASS'] %>
 
