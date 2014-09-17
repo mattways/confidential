@@ -12,8 +12,9 @@ gem 'confidential'
 ```
 
 Then bundle:
-
-    $ bundle
+```
+$ bundle
+```
 
 ## Configuration
 
@@ -28,7 +29,7 @@ NOTE: Probably you want to ignore config/confidential.yml in your repo.
 ## Usage
 
 All the keys will be loaded into envs, you may want to use those for your database.yml:
-```yaml
+```erb
 production:
   username: <%= ENV['DB_USER'] %>
   password: <%= ENV['DB_PASS'] %>
