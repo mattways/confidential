@@ -18,7 +18,7 @@ Then bundle:
 ## Configuration
 
 Put your confidential information in config/confidential.yml:
-```ruby
+```yaml
 DB_USER: user
 DB_PASS: pass
 ```
@@ -28,7 +28,7 @@ NOTE: Probably you want to ignore config/confidential.yml in your repo.
 ## Usage
 
 All the keys will be loaded into envs, you may want to use those for your database.yml:
-```ruby
+```yaml
 production:
   username: <%= ENV['DB_USER'] %>
   password: <%= ENV['DB_PASS'] %>
