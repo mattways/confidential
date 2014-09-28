@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/confidential.svg)](http://badge.fury.io/rb/confidential) [![Code Climate](https://codeclimate.com/github/museways/confidential/badges/gpa.svg)](https://codeclimate.com/github/museways/confidential) [![Build Status](https://travis-ci.org/museways/confidential.svg?branch=master)](https://travis-ci.org/museways/confidential)
+[![Gem Version](https://badge.fury.io/rb/confidential.svg)](http://badge.fury.io/rb/confidential) [![Code Climate](https://codeclimate.com/github/museways/confidential/badges/gpa.svg)](https://codeclimate.com/github/museways/confidential) [![Build Status](https://travis-ci.org/museways/confidential.svg?branch=master)](https://travis-ci.org/museways/confidential) [![Dependency Status](https://gemnasium.com/museways/confidential.svg)](https://gemnasium.com/museways/confidential)
 
 # Confidential
 
