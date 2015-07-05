@@ -1,4 +1,4 @@
-### NOTE: Since rails 4.1 this gem is deprecated in favor of secrets.
+##### NOTE: Since rails 4.1 this gem is deprecated in favor of secrets.
 
 ---
 
