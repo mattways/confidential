@@ -7,9 +7,9 @@ require 'confidential/version'
 Gem::Specification.new do |s|
   s.name        = 'confidential'
   s.version     = Confidential::VERSION
-  s.authors     = ['Museways']
-  s.email       = ['hello@museways.com']
-  s.homepage    = 'https://github.com/museways/confidential'
+  s.authors     = ['mmontossi']
+  s.email       = ['mmontossi@buyin.io']
+  s.homepage    = 'https://github.com/mmontossi/confidential'
   s.summary     = 'Confidential envs for rails.'
   s.description = 'Loads your confidential configuration into envs in rails.'
   s.license     = 'MIT'
