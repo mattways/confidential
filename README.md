@@ -3,7 +3,8 @@
 ---
 
 [![Gem Version](https://badge.fury.io/rb/confidential.svg)](http://badge.fury.io/rb/confidential)
-[![Code Climate](https://codeclimate.com/github/mmontossi/confidential/badges/gpa.svg)](https://codeclimate.com/github/mmontossi/confidential) [![Build Status](https://travis-ci.org/mmontossi/confidential.svg)](https://travis-ci.org/mmontossi/confidential)
+[![Code Climate](https://codeclimate.com/github/mmontossi/confidential/badges/gpa.svg)](https://codeclimate.com/github/mmontossi/confidential)
+[![Build Status](https://travis-ci.org/mmontossi/confidential.svg)](https://travis-ci.org/mmontossi/confidential)
 [![Dependency Status](https://gemnasium.com/mmontossi/confidential.svg)](https://gemnasium.com/mmontossi/confidential)
 
 # Confidential
