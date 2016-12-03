@@ -12,7 +12,7 @@ class GeneratorsTest < Rails::Generators::TestCase
   test 'install' do
     self.class.tests Confidential::Generators::InstallGenerator
     run_generator
-    assert_file 'config/confidential.yaml'
+    assert_file 'config/confidential.yml'
   end
 
 end

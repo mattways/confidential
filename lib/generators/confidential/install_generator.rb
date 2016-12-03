@@ -7,7 +7,7 @@ module Confidential
       source_root File.expand_path('../templates', __FILE__)
 
       def create_configuration_file
-        copy_file 'configuration.yaml', 'config/confidential.yaml'
+        copy_file 'configuration.yml', 'config/confidential.yml'
       end
 
     end
