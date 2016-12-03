@@ -25,17 +25,22 @@ $ bundle
 
 ## Configuration
 
-Put your confidential information in config/confidential.yml:
-```yaml
+Generate the confidential file:
+```
+$ bundle exec rails g confidential:install
+```
+
+Put your confidential information in it:
+```erb
 DB_USER: user
 DB_PASS: pass
 ```
 
-NOTE: Probably you want to ignore config/confidential.yml in your repo.
+NOTE: You may want to ignore the file in your repo.
 
 ## Usage
 
-All the keys will be loaded into envs, you may want to use those for your database.yml:
+All the keys will be loaded into envs and be ready to use:
 ```erb
 production:
   username: <%= ENV['DB_USER'] %>
