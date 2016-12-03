@@ -1,4 +1,3 @@
 source 'http://rubygems.org'
 
 gem 'rails', ENV['RAILS']
-gem 'rack', '< 2.0.0'
