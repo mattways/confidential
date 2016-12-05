@@ -1,6 +1,6 @@
 require 'test_helper'
 require 'rails/generators'
-require 'generators/confidential/install_generator'
+require 'generators/confidential/install/install_generator'
 
 class GeneratorsTest < Rails::Generators::TestCase
   destination Rails.root.join('tmp')

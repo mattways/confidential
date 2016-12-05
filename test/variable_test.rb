@@ -1,8 +1,8 @@
 require 'test_helper'
 
-class ConfidentialTest < ActiveSupport::TestCase
+class VariableTest < ActiveSupport::TestCase
 
-  test 'envs' do
+  test 'assignments' do
     assert_equal 'user', ENV['DB_USER']
     assert_equal 'pass', ENV['DB_PASS']
   end
