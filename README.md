@@ -47,6 +47,12 @@ production:
   password: <%= ENV['DB_PASS'] %>
 ```
 
+## Contributing
+
+Any issue, pull request, comment of any kind is more than welcome!
+
+I will mainly ensure compatibility to PostgreSQL, AWS, Redis, Elasticsearch, FreeBSD and Memcached. 
+
 ## Credits
 
 This gem is maintained and funded by [mmontossi](https://github.com/mmontossi).
